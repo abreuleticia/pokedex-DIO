@@ -1,2 +1,2 @@
 # pokedex-DIO
-Projeto de Pokedex realizado com o Bootcamp Santamder 2023 na DIO
+Projeto de Pokedex realizado com o Bootcamp Santander 2023 na plataforma DIO
